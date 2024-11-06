@@ -4,7 +4,6 @@
     "name": "BHARGAV VADLA",
     "email": "bhargavvadla4b6@gmail.com"
   },
-  "homepage": "https://bhargavvadla.github.io/password-manager",
   "private": true,
   "version": "1.0.0",
   "engines": {
@@ -16,7 +15,6 @@
     "@testing-library/react": "11.2.5",
     "@testing-library/user-event": "12.6.2",
     "chalk": "4.1.0",
-    "password-manager": "link:",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "uuid": "8.3.2"
